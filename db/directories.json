@@ -2103,6 +2103,14 @@
         "pricing": "Free"
     },
     {
+    "name": "Submit AI Tools",
+    "link": "https://submitaitools.org/",
+    "submission_link": "https://submitaitools.org/submit-your-ai-tool/",
+    "domain_rating": 27,
+    "monthly_visits": 8000,
+    "pricing": "Free"
+    },
+    {
         "name": "SustainabilitySoftwares",
         "link": "https://sustainabilitysoftwares.com?ref=aidirectori.es",
         "submission_link": "https://sustainabilitysoftwares.com/submit?ref=aidirectori.es",
@@ -2381,4 +2389,5 @@
         "submission_experience": "Good",
         "pricing": "Free"
     }
+    
 ]}
